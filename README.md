@@ -3,6 +3,13 @@
 A deep learning app that reads an SMS message and tells you if it is **spam / scam** or **safe**.
 Built with **TensorFlow/Keras (NLP)** and served with **FastAPI**, with a glass-style web UI.
 
+## Screenshots
+<p align="center">
+  <img src="Screenshot_20261118-115118.jpg" width="30%">
+  <img src="Screenshot_20261118-120041.jpg" width="30%">
+  <img src="Screenshot_20261118-120100.jpg" width="30%">
+</p>
+
 ## Why this project
 Fake prize offers and bank-fraud SMS trick many people every day. This model helps spot them quickly.
 
