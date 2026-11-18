@@ -31,7 +31,7 @@ Overall accuracy: **98%**. Confusion matrix: `[[961, 5], [12, 137]]`.
 
 ## Run locally
 ```bash
-git clone https://github.com/<your-username>/sms-scam-detector.git
+git clone https://github.com/rafaqatkhattak5/sms-scam-detector.git
 cd sms-scam-detector
 pip install -r requirements.txt
 uvicorn app:app --host 0.0.0.0 --port 8000
